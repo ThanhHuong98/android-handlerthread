@@ -39,7 +39,6 @@ public class MyHandlerThread extends HandlerThread {
         };
          publishedMethod1();
         // publishedMethod2();
-
     }
 
     public void publishedMethod1()
