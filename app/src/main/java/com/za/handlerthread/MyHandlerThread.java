@@ -38,6 +38,7 @@ public class MyHandlerThread extends HandlerThread {
             }
         };
          publishedMethod1();
+        // publishedMethod2();
 
     }
 
